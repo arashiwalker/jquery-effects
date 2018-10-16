@@ -1,4 +1,8 @@
-#walrus-showing {
+.walrus-showing {
+  display: none;
+}
+
+.cat-hidden {
   display: none;
 }
 
@@ -7,6 +11,15 @@
   color: #0088cc;
 }
 
+.clickable2 {
+  cursor: pointer;
+  color: green;
+}
+
 .clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2:hover {
   text-decoration: underline;
 }
