@@ -8,12 +8,12 @@
 
 .clickable {
   cursor: pointer;
-  color: #0088cc;
+  color: purple;
 }
 
 .clickable2 {
   cursor: pointer;
-  color: green;
+  color: pink;
 }
 
 .clickable:hover {
@@ -22,4 +22,20 @@
 
 .clickable2:hover {
   text-decoration: underline;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.blue-background {
+  background-color: blue;
 }
